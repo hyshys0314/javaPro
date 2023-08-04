@@ -7,6 +7,7 @@ public class cutOperation {
 		
 		System.out.println("hello world");
 
+			//강사님이 코딩하심
 	}
 
 }
